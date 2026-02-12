@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "誓い",
+  "base_artist": "ONE DRAFT",
+  "createdAt": "2026-02-12T17:12:22.744004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_誓い_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chikai [誓い]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Chikai_[誓い]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chikai (誓い)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Chikai_(誓い)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/04_誓い_雨宮天.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/05_誓い_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/06_誓い_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "誓い (-KINGDOM Orchestra Instrumental Version-)",
+      "artist": "Utada, Hikaru",
+      "has_synced": true,
+      "path": "select/07_誓い_(-KINGDOM_Orchestra_Instrumental_Version-)_Utada,_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_誓い_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/09_誓い_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/10_誓い_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/11_誓い_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/12_誓い_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "誓い",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/13_誓い_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誓い",
+      "artist": "ONE☆DRAFT",
+      "has_synced": false,
+      "path": "select/pl_01_誓い_ONE☆DRAFT.txt"
+    }
+  ]
+}
